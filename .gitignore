@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# Logs and local env
+*.log
+.env
+.env.*
+
+# Build artifacts (not used, but safe)
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+.vercel/
+.netlify/
+
+# Keep internal docs local only
+AGENTS.md
+agents.md

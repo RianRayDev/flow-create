@@ -1,0 +1,11 @@
+# Normalize line endings in the repo
+* text=auto
+
+# Treat common binary assets explicitly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg binary
+*.ico binary
