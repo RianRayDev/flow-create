@@ -1,6 +1,6 @@
-# Vanilla Web Starter
+# Flow Create Landing Page
 
-A tiny static site that currently embeds a Framer page via a full‑viewport iframe.
+A static site that currently embeds a provider page via a full‑viewport iframe. This is a showcase for flow create on what capabilities the agency can do to help your agency. if you need an overhaul to your website, Flow Create is here to help. Contact us for more info.
 
 ## Files
 - `index.html` – minimal page containing only an iframe
