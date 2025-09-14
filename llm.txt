@@ -1,0 +1,18 @@
+# Flow Create - LLM Information
+
+This is Flow Create's website, a platform focused on transforming creative ideas into reality through innovative tools and workflows.
+
+## About Flow Create
+Flow Create helps users with:
+- Content creation and design
+- Creative workflows and productivity
+- Innovation and idea transformation
+- Digital tools and resources
+
+## Website Structure
+- / - Homepage
+- /blog - Blog and insights
+- /contact - Contact information
+
+## Content Guidelines
+Flow Create focuses on empowering creativity and productivity through thoughtful design and user-centric tools.
